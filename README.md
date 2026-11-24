@@ -1,11 +1,14 @@
 # Yatin's Portfolio
 
 This is my personal portfolio site. It's a single page built with React and Vite, with Tailwind for styling, GSAP for the animations and a 3D planet in the background made with Three.js.
-![Uploading Screenshot 2026-11-24 070517.png…]()
-<img width="1903" height="980" alt="Screenshot 2026-11-24 070447" src="https://github.com/user-attachments/assets/6e2e6439-7f7a-4c45-aa7b-0e673ecd87f1" />
-<img width="1903" height="995" alt="Screenshot 2026-11-24 070408" src="https://github.com/user-attachments/assets/2722b6ca-62ee-4da7-8d86-2daba8412fb6" />
-<img width="1903" height="998" alt="Screenshot 2026-11-24 070345" src="https://github.com/user-attachments/assets/fd41d769-8b3c-415b-839b-327aed8fa5f6" />
-<img width="1902" height="998" alt="Screenshot 2026-11-24 070325" src="https://github.com/user-attachments/assets/0f262a00-80ab-4969-97a3-1342c8672b37" />
+<img width="1902" height="998" alt="Screenshot 2026-11-24 070325" src="https://github.com/user-attachments/assets/ce9752d9-5161-4257-bbb0-f1a63e7372c4" />
+<img width="1903" height="998" alt="Screenshot 2026-11-24 070345" src="https://github.com/user-attachments/assets/8c122c47-2129-40ce-9bca-f76b11470634" />
+<img width="1903" height="995" alt="Screenshot 2026-11-24 070408" src="https://github.com/user-attachments/assets/b5d21b9c-ba06-4b93-81b3-a53132896e60" />
+<img width="1903" height="980" alt="Screenshot 2026-11-24 070447" src="https://github.com/user-attachments/assets/475c9d5b-79e7-49aa-84ce-9f94bfd1b530" />
+<img width="1903" height="995" alt="Screenshot 2026-11-24 070408" src="https://github.com/user-attachments/assets/b5d21b9c-ba06-4b93-81b3-a53132896e60" />
+<img width="1903" height="998" alt="Screenshot 2026-11-24 070345" src="https://github.com/user-attachments/assets/8c122c47-2129-40ce-9bca-f76b11470634" />
+<img width="1902" height="998" alt="Screenshot 2026-11-24 070325" src="https://github.com/user-attachments/assets/ce9752d9-5161-4257-bbb0-f1a63e7372c4" />
+
 
 
 
