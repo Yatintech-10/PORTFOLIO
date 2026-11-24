@@ -1,0 +1,12 @@
+export function Planet(props) {
+  return (
+    <group {...props} dispose={null}>
+      <mesh>
+        <sphereGeometry args={[1, 64, 64]} />
+        <meshStandardMaterial color="#4f8cff" />
+      </mesh>
+    </group>
+  );
+}
+
+export default Planet;

@@ -1,0 +1,10 @@
+function Planet(props) {
+  return (
+    <mesh {...props}>
+      <sphereGeometry args={[1, 64, 64]} />
+      <meshStandardMaterial color="#4f8cff" />
+    </mesh>
+  )
+}
+
+export default Planet
