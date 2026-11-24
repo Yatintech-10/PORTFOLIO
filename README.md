@@ -5,14 +5,13 @@ This is my personal portfolio site. It's a single page built with React and Vite
 <img width="1903" height="998" alt="Screenshot 2026-11-24 070345" src="https://github.com/user-attachments/assets/8c122c47-2129-40ce-9bca-f76b11470634" />
 <img width="1903" height="995" alt="Screenshot 2026-11-24 070408" src="https://github.com/user-attachments/assets/b5d21b9c-ba06-4b93-81b3-a53132896e60" />
 <img width="1903" height="980" alt="Screenshot 2026-11-24 070447" src="https://github.com/user-attachments/assets/475c9d5b-79e7-49aa-84ce-9f94bfd1b530" />
-<img width="1903" height="995" alt="Screenshot 2026-11-24 070408" src="https://github.com/user-attachments/assets/b5d21b9c-ba06-4b93-81b3-a53132896e60" />
-<img width="1903" height="998" alt="Screenshot 2026-11-24 070345" src="https://github.com/user-attachments/assets/8c122c47-2129-40ce-9bca-f76b11470634" />
-<img width="1902" height="998" alt="Screenshot 2026-11-24 070325" src="https://github.com/user-attachments/assets/ce9752d9-5161-4257-bbb0-f1a63e7372c4" />
+<img width="1902" height="1002" alt="Screenshot 2026-11-24 070517" src="https://github.com/user-attachments/assets/7a5895a3-f79b-439b-ae4a-08c245a1cd8e" />
+<img width="1907" height="999" alt="Screenshot 2026-11-24 070540" src="https://github.com/user-attachments/assets/21cc38da-0646-46bf-ba0a-24d13f949059" />
+<img width="1904" height="985" alt="Screenshot 2026-11-24 070601" src="https://github.com/user-attachments/assets/7d4b9c55-e3df-4220-ad92-63a3fe723c7d" />
 
 
 
-
-Live site: [yatin10.netlify.app/]
+Live site: [yatin10.netlify.app]
 
 ## Why I built it
 
