@@ -121,8 +121,6 @@ One heads up about file names. Windows doesn't care about capital letters in fil
 - The tech logos belong to their respective owners.
 
 ## Contact
-yatina.work@gmail.com
 
 - GitHub: [Yatintech-10](https://github.com/Yatintech-10)
-- LinkedIn: [add your link]
-- Email: [add your email]
+- Email: [yatina.work@gmail.com]
